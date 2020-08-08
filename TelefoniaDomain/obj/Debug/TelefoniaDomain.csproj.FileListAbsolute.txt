@@ -1,0 +1,4 @@
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaDomain\bin\Debug\TelefoniaDomain.dll
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaDomain\bin\Debug\TelefoniaDomain.pdb
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaDomain\obj\Debug\TelefoniaDomain.dll
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaDomain\obj\Debug\TelefoniaDomain.pdb

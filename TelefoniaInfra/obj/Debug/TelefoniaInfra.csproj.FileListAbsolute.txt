@@ -1,0 +1,16 @@
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\TelefoniaInfra.dll.config
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\TelefoniaInfra.dll
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\TelefoniaInfra.pdb
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\EntityFramework.dll
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\TelefoniaDomain.dll
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\TelefoniaDomain.pdb
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\EntityFramework.xml
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\obj\Debug\TelefoniaInfra.csprojAssemblyReference.cache
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\obj\Debug\TelefoniaInfra.csproj.CopyComplete
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\obj\Debug\TelefoniaInfra.dll
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\obj\Debug\TelefoniaInfra.pdb
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\obj\Debug\TelefoniaInfra.Migrations.novo.resources
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\obj\Debug\TelefoniaInfra.csproj.GenerateResource.cache
+C:\Users\Rafael\source\repos\Telefonia\TelefoniaInfra\obj\Debug\TelefoniaInfra.Migrations.correcao.resources
